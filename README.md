@@ -26,7 +26,7 @@ The goal of this project was to develop a strategic **SWOT Analysis** (Strengths
 
 ## What's Inside
 
-- SWOT Analysis slides (`.pptx`)
+- SWOT Analysis slides (`.pdf`)
 - Execution plan overview
 - Copyright notice
 
