@@ -40,5 +40,5 @@ For more about my path into cybersecurity and red teaming, visit:
 📄 This presentation is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 ---
-<sub><i>Keywords: Seif Eldien, Seif Ahmad, Seif Mohammed, سيف الدين, Cybersecurity, Linux, Red Team, Red Teamer, Ethical Hacking, Offensive Security, Information Security, Penetration Testing, Bug Bounty, Seif Eldien Ahmad Mohammad, Seif Portfolio, GitHub Portfolio, Linux Scripts, Parrot OS, Bash Tools, Cyber Defense, Digital Forensics, Linux Administration, Open Source, InfoSec, Cyber Student, Seif OSINT</i></sub>
+> <sub><i>Keywords: Seif Eldien, Seif Ahmad, Seif Mohammed, سيف الدين, Cybersecurity, Linux, Red Team, Red Teamer, Ethical Hacking, Offensive Security, Information Security, Penetration Testing, Bug Bounty, Seif Eldien Ahmad Mohammad, Seif Portfolio, GitHub Portfolio, Linux Scripts, Parrot OS, Bash Tools, Cyber Defense, Digital Forensics, Linux Administration, Open Source, InfoSec, Cyber Student, Seif OSINT</i></sub>
 > All content in this repository is © reserved to the project team members. Unauthorized use or reproduction is prohibited.
