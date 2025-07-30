@@ -37,4 +37,8 @@ For more about my path into cybersecurity and red teaming, visit:
 
 ---
 
+📄 This presentation is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+
+---
+
 > All content in this repository is © reserved to the project team members. Unauthorized use or reproduction is prohibited.
