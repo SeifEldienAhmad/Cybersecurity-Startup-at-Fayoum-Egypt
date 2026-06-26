@@ -13,7 +13,7 @@ The goal of this project was to develop a strategic **SWOT Analysis** (Strengths
 ## Team Members
 
 - Omar Zein El-Abdeen  
-- **Seif Eldein Ahmad Mohammad** (myself)  
+- **Seif Eldein Ahmad Mohammad**
 - Ziad Ahmad Mahrous  
 - Abdelrahman Ashraf  
 - Omar Abdel Sattar  
@@ -33,7 +33,7 @@ The goal of this project was to develop a strategic **SWOT Analysis** (Strengths
 ## Follow My Journey
 
 For more about my path into cybersecurity and red teaming, visit:  
-**[about.me/seifeldienahmadmohammad](https://about.me/seifeldienahmadmohammad)**
+**[Seif Eldien Ahmad Mohammad - Portfolio](https://seifeldienahmad.github.com)**
 
 ---
 
